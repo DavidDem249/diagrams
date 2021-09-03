@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T08:00:08.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="qLfM6fwR-Rq0YdUuuKSm" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T08:07:15.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="0J3NSjqkgzetFMyhsEgo" version="14.9.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="410" y="110" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x2w5z2Fc6nhVQt8rYZx7-131" value="FAIRE UNE DEMANDE DE DEVIS" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#6CA5C2;fillColor=#fd7e14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="495" y="380" width="230" height="208" as="geometry" />
+          <mxGeometry x="495" y="380" width="230" height="260" as="geometry" />
         </mxCell>
         <mxCell id="x2w5z2Fc6nhVQt8rYZx7-133" value="PRENOM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="x2w5z2Fc6nhVQt8rYZx7-131">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
@@ -28,11 +28,17 @@
         <mxCell id="x2w5z2Fc6nhVQt8rYZx7-137" value="VILLE DE PRESTATION" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="x2w5z2Fc6nhVQt8rYZx7-131">
           <mxGeometry y="130" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="x2w5z2Fc6nhVQt8rYZx7-138" value="PHOTO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="x2w5z2Fc6nhVQt8rYZx7-131">
+        <mxCell id="x2w5z2Fc6nhVQt8rYZx7-138" value="QUARTIER OU COMMUNE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="x2w5z2Fc6nhVQt8rYZx7-131">
           <mxGeometry y="156" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="x2w5z2Fc6nhVQt8rYZx7-139" value="LIEU NAISSANCE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="x2w5z2Fc6nhVQt8rYZx7-131">
+        <mxCell id="x2w5z2Fc6nhVQt8rYZx7-153" value="DOMAINE DE PRESTATION" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="x2w5z2Fc6nhVQt8rYZx7-131">
           <mxGeometry y="182" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="x2w5z2Fc6nhVQt8rYZx7-154" value="DATE DEBUT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="x2w5z2Fc6nhVQt8rYZx7-131">
+          <mxGeometry y="208" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="x2w5z2Fc6nhVQt8rYZx7-155" value="UNE DESCRIPTION DE LA TACHE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="x2w5z2Fc6nhVQt8rYZx7-131">
+          <mxGeometry y="234" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="x2w5z2Fc6nhVQt8rYZx7-148" value="CHOIX DU SERVICE" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="345" y="170" width="150" height="90" as="geometry" />
@@ -45,6 +51,15 @@
         </mxCell>
         <mxCell id="x2w5z2Fc6nhVQt8rYZx7-152" value="Pack no" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="550" y="280" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x2w5z2Fc6nhVQt8rYZx7-156" value="CHOIX DU TYPE DE PACK" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="455" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x2w5z2Fc6nhVQt8rYZx7-158" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x2w5z2Fc6nhVQt8rYZx7-151" target="x2w5z2Fc6nhVQt8rYZx7-156">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="390" as="sourcePoint" />
+            <mxPoint x="290" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
