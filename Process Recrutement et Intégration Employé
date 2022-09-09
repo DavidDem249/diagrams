@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T12:18:06.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="Ks0-ai2jdrW3YTGTTJGL" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T15:17:37.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="EfpCsbxmSXq6hOlfXnlo" version="20.2.3" type="github">
   <diagram id="nRALfH3Bi6Uzt31plz8U" name="Page-1">
     <mxGraphModel dx="1278" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
         <mxCell id="e2CBdZrYuQ6XrGpQmJQL-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="e2CBdZrYuQ6XrGpQmJQL-60" target="e2CBdZrYuQ6XrGpQmJQL-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2CBdZrYuQ6XrGpQmJQL-60" value="Enregistrement de l&#39;employé" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e2CBdZrYuQ6XrGpQmJQL-60" value="Intégration de l&#39;employé" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="461" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e2CBdZrYuQ6XrGpQmJQL-62" value="Activation compte employé et envoi de paramètres login" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
