@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T10:55:44.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="jcomMVBrNsrGxhpKU82o" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T10:57:22.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="6_cZTkFMIDiDC382A49u" version="21.1.1" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="1233" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="BN5QdpFdJnZ5tTiyRQoI-17" value="Activation compte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="633" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BN5QdpFdJnZ5tTiyRQoI-22" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FFFFFF;fillColor=#FD7E14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
